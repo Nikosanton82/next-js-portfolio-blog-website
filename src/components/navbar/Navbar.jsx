@@ -41,7 +41,7 @@ const Navbar = () => {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        Lamamia
+        PixelPinnacle
       </Link>
       <div className={styles.links}>
         <DarkModeToggle />
